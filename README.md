@@ -2,7 +2,7 @@
 A cat photo gallery. This project helped me learn to use flex box in CSS.
 <br>
 <br>
-<a href="https://zacharyjpeter.github.io/FCC-CSSPhotoGallery">View the finished project</a>
+<a href="https://zacharyjpeter.github.io/FCC-PhotoGallery">View the finished project</a>
 <br>
 <h3>Biggest Challenge</h3>
 This project wasn't difficult. It gave me a quick understanding of how flex box works.
