@@ -1,4 +1,4 @@
-<h1>FCC-CSSPhotoGallery</h1>
+<h1>FCC Photo Gallery</h1>
 A cat photo gallery. This project helped me learn to use flex box in CSS.
 <br>
 <br>
